@@ -1,0 +1,2 @@
+Ruta: /joyas?limits=3&page=2&order_by=stock_ASC - Método: GET - Fecha: 2024-12-17T18:18:46.877Z
+Ruta: /joyas?limits=abc&page=-1&order_by=stock_XYZ - Método: GET - Fecha: 2024-12-17T18:21:25.040Z
